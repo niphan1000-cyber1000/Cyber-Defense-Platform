@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Defense Platform",
+  "description": "Cyber Defense & Dominance Readiness Assessment Platform across 4 CISO pillars: Continuous Visibility, Detection to Decision, Controlled Automation, and Secure AI Agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
